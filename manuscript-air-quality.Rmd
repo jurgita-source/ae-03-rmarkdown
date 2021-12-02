@@ -40,7 +40,7 @@ data_in <- read_csv(data_link)
 
 ```
 
-#Exercise
+#Exercise 1
 
 ```{r transform-summary}
 
@@ -62,5 +62,9 @@ dat_in_sum_day %>%
   datatable()
 
 ```
+
+#Exercise 2
+
+can you also reproduce the plot that we created in unit 2 of application exercise 2?
 
 
